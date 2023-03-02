@@ -1,1 +1,1 @@
-My first readme Updated
+I am a software Engineer, FrJ_root
